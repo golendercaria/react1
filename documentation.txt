@@ -1,0 +1,8 @@
+React Developer Tools
+https://addons.mozilla.org/fr/firefox/addon/react-devtools/
+
+
+Javascript standardjs styled snippets
+
+1) Commande pour créer un projet react
+npm create-react-app xxxx
