@@ -6,3 +6,5 @@ Javascript standardjs styled snippets
 
 1) Commande pour créer un projet react
 npm create-react-app xxxx
+
+2) npm start
